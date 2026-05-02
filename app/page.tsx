@@ -235,7 +235,7 @@ export default function Home() {
                 boxShadow: '0 4px 24px rgba(0,0,0,0.06)'
               }}>
                 <Image
-                  src="/assets/formal 2.png"
+                  src="/assets/Formal Hair.png"
                   alt="Vinay"
                   fill
                   style={{ objectFit: 'cover', objectPosition: 'center top' }}

@@ -54,7 +54,7 @@ export default function About() {
         </div>
         <div className="w-full md:w-1/3 aspect-[3/4] relative rounded-2xl overflow-hidden shadow-lg border border-neutral-200 shrink-0">
           <Image
-            src="/assets/formal 2.png"
+            src="/assets/Formal Hair.png"
             alt="Vinay - Formal Portrait"
             fill
             className="object-cover"
